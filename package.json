@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/onbeveiligde-devs/Auth#readme",
   "dependencies": {
+    "express": "^4.17.1",
+    "hal": "^1.2.0",
     "js-sha256": "^0.9.0",
     "node-gpg": "^0.2.0"
   }
